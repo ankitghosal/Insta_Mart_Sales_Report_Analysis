@@ -2,7 +2,7 @@
  
 An interactive Power BI dashboard analyzing  Insta Mart's grocery sales performance, covering **$1.20M** in total sales across **8,523 items**.
  
-![Dashboard Preview](https://github.com/user-attachments/assets/46303904-cfe8-40c2-8802-aedbd99e76b8)
+![Dashboard Preview](https://github.com/ankitghosal/Insta_Mart_Sales_Report_Analysis/blob/main/dahsboard.png)
  
 ## 📊 Overview
  
